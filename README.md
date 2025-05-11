@@ -1,4 +1,4 @@
-# BadUSB Scripts by hachtable
+# BadUSB Scripts by @Hachtable
 
 Welcome to my collection of BadUSB scripts built for ethical hacking, penetration testing, and cybersecurity education.
 
@@ -6,20 +6,14 @@ Welcome to my collection of BadUSB scripts built for ethical hacking, penetratio
 
 ## 🔍 About
 
-This repository contains scripts designed to run on devices like Rubber Ducky, Flipper Zero, Any Bruce Firmware and other BadUSB-capable platforms. They're intended to help security professionals and enthusiasts test the effectiveness of endpoint protection and awareness training.
-
-## 💻 Contents
-
-- `windows_payloads/` – Scripts targeting Windows environments
-- `linux_payloads/` – Scripts for Linux systems
-- `osx_payloads/` – macOS-specific scripts
-- `payload_templates/` – Templates to create your own payloads
+This repository contains scripts designed to run on devices like Rubber Ducky, Flipper Zero, Any Bruce Firmware, and other BadUSB-capable platforms. They're intended to help security professionals and enthusiasts test the effectiveness of endpoint protection and awareness training.
 
 ## 🛠 Tools Used
 
 - Flipper Zero
 - Hak5 Rubber Ducky
 - Bash, PowerShell, DuckyScript, etc.
+- Any Bruce Firmware.
 
 ## 📜 License
 
